@@ -1,14 +1,7 @@
 # 💡 Certainty Factor & Fuzzy Logic: Diagnosa & Pengendalian
+Raja Naufal fadhil Ns_2306020
 
 Proyek ini berisi implementasi logika **Certainty Factor (CF)** dan **Logika Fuzzy** untuk menganalisis gejala dalam diagnosa penyakit (misalnya Flu) serta mengontrol kecepatan kipas AC berdasarkan suhu, kelembaban, dan aktivitas.
-
-## 🔧 Teknologi yang Digunakan
-- Python 3.x
-- [scikit-fuzzy (skfuzzy)](https://pypi.org/project/scikit-fuzzy/)
-- NumPy
-- Matplotlib
-
----
 
 ## 📁 Struktur Folder/Isi
 | File/Folder            | Deskripsi                                                  |
